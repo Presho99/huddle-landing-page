@@ -9,7 +9,7 @@ function Header(){
                 <h1>Huddle</h1>
             </div>
             <div className="header-btn">
-                <button>Try it Free</button>
+                <button>Try It Free</button>
             </div>
         </div>
     )
